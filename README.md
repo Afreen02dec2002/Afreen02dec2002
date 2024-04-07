@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently pursing btech 3rd year from methodist college of engineering nd technology **a **
+ 🔭 I’m currently pursing btech 3rd year from methodist college of engineering nd technology 
  
  🌱 I’m currently learning **Machince Learninh, NLP, Web Technology**
 
